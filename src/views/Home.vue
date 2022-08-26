@@ -37,8 +37,8 @@ data(){
    return {
   github:{
   url:'https://api.github.com/users',
-  client_id:'7eceaf34d17825837a31',
-  client_secret:'fed6d3d1ba8d072ab67533ce06d0f3ec5566a399',
+  client_id:'',
+  client_secret:'',
   count:7,
   sort:'created asc',
   },
